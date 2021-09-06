@@ -1,11 +1,6 @@
 Pre requisitos
 Para usar la aplicacion es necesario instalar: Docker & Docker Compose.
 
-Instructions how to install Docker on Ubuntu, Windows , Mac .
-
-Dosker Compose is already included in installation packs for Windows and Mac, so only Ubuntu users needs to follow this instructions .
-
-How to run it?
 en una terminal en la carpeta base ejecutar:
 
 $ docker-compose up -d
