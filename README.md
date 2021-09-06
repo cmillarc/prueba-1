@@ -13,16 +13,20 @@ Para ejecutar la aplicacion rest entrar a:
 
 http://localhost:8080/api/swagger-ui.html#/
 
-Coordenadas, al ingresar ambos parametros retorna registro de bd con descripcion de las coordenadas.:
+Coordenadas, 
+
+al ingresar ambos parametros retorna registro de bd con descripcion de las coordenadas:
 
 http://localhost:8080/api/swagger-ui.html#/pruebacontroller/coordenadaUsingGET
 
 Usar datos de prueba lat: -33.45694, lng: -70.64827
 
-Usuario, calida si existe un usuario, responde true si lo encuentra.
+Usuario,
+
+valida si existe un usuario, responde true si lo encuentra.
 
 http://localhost:8080/api/swagger-ui.html#/pruebacontroller/usuarioUsingGET
 
 Usar datos de prueba usuario, password.
 
-Servicios de angular incompleso, solo quedo la base e integracion con docker, test unitarios en rest incompletos.
+Servicios de angular incompleto, solo quedo la base e integracion con docker, test unitarios en rest incompletos.
